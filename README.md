@@ -1,2 +1,47 @@
 # edwindtling
 Edwins Detailing
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edwin's Detailing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>Edwin's Detailing</header>
+    <div class="container">
+        <h2>Professional Auto Detailing</h2>
+        <p>We provide top-notch interior and exterior car detailing services to make your vehicle look brand new.</p>
+        <p>Contact us for a shine that lasts!</p>
+    </div>
+    <footer>Contact: (Your Contact Info) | Location: (Your Location)</footer>
+</body>
+</html>
