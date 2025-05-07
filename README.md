@@ -42,6 +42,6 @@ Edwins Detailing
         <p>We provide top-notch interior and exterior car detailing services to make your vehicle look brand new.</p>
         <p>Contact us for a shine that lasts!</p>
     </div>
-    <footer>Contact: (Your Contact Info) | Location: (Your Location)</footer>
+    <footer>Contact: (475) 255-4961 | Location: CT</footer>
 </body>
 </html>
